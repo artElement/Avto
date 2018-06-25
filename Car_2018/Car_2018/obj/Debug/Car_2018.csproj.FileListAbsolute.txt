@@ -1,0 +1,7 @@
+C:\Users\SaNToS\source\repos\Car_2018\Car_2018\bin\Debug\Car_2018.exe.config
+C:\Users\SaNToS\source\repos\Car_2018\Car_2018\bin\Debug\Car_2018.exe
+C:\Users\SaNToS\source\repos\Car_2018\Car_2018\bin\Debug\Car_2018.pdb
+C:\Users\SaNToS\source\repos\Car_2018\Car_2018\obj\Debug\Car_2018.csprojAssemblyReference.cache
+C:\Users\SaNToS\source\repos\Car_2018\Car_2018\obj\Debug\Car_2018.csproj.CoreCompileInputs.cache
+C:\Users\SaNToS\source\repos\Car_2018\Car_2018\obj\Debug\Car_2018.exe
+C:\Users\SaNToS\source\repos\Car_2018\Car_2018\obj\Debug\Car_2018.pdb
